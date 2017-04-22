@@ -1,6 +1,6 @@
 # Movie Trailers Web Project by Amila Ishara (Udacity)
 
-## intro
+## Introduction
 This project contains python code to populate hard coded movie list in a self opening browser  using UDACITY's fresh_tomatoes file. Clicking on any movie image will populate the relavant moview trailer.
 
 ## Prerequisites
